@@ -4,8 +4,7 @@
   "description": "test-package-for-testing-npm-features",
   "type": "module",
   "scripts": {
-    "rollup": "rollup -c",
-    "postinstall": "node -e \"require('child_process').execSync('npm install styled-components --omit=optional', { stdio: 'inherit' })\""
+    "rollup": "rollup -c"
   },
   "repository": {
     "type": "git",
