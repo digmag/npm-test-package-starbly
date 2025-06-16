@@ -1,6 +1,6 @@
 {
   "name": "npm-test-package-starbly",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "test-package-for-testing-npm-features",
   "type": "module",
   "scripts": {
