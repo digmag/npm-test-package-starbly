@@ -1,6 +1,6 @@
 {
   "name": "npm-test-package-starbly",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "test-package-for-testing-npm-features",
   "type": "module",
   "scripts": {
@@ -37,7 +37,8 @@
   },
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.19"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
